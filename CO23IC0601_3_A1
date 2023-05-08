@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My Page</h1><hr>
+<p>This is my <b>first</b> <i>HTML page!</i></p>
+<p><u> Let's learn to format text </u></p>
+<p>H<sub>2</sub> + Cl<sub>2</sub> --> 2HCl</p>
+
+
+</body>
+</html> 
