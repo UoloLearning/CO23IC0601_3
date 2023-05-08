@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Arithmetic Formula</title>
+</head>
+<body>
+
+	<h1><u>Arithmetic Formula!</u></h1>
+	<p></p>
+	<p>(x+y)<sup>2</sup> = x<sup>2</sup> + y<sup>2</sup> + 2xy</p>
+
+</body>
+</html>
